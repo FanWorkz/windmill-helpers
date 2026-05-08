@@ -1,4 +1,4 @@
-module github.com/masarykadam/windmill/helpers
+module github.com/FanWorkz/windmill-helpers
 
 go 1.25
 

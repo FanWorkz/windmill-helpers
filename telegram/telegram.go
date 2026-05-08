@@ -13,7 +13,7 @@ import (
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	sdk "github.com/windmill-labs/windmill-go-client"
 
-	"github.com/masarykadam/windmill/helpers/wmill"
+	"github.com/FanWorkz/windmill-helpers/wmill"
 )
 
 const (

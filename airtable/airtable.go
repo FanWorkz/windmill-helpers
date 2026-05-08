@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/masarykadam/windmill/helpers/wmill"
+	"github.com/FanWorkz/windmill-helpers/wmill"
 	upstream "github.com/mehanizm/airtable"
 )
 
